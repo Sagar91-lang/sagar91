@@ -48,16 +48,15 @@
 | 🗂️ **SIEM Log Analysis (Simulated)** | Parsed mock logs for unusual behavior and generated reports. | Splunk Free, IBM QRadar |
 
 
-
 ---
 
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/sagarminajagi/">
+  <a href="https://www.linkedin.com/in/sagar-minajagi-131830224/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sagar.cybersec@gmail.com">
+  <a href="mailto:sagarminjagi1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/sagarminajagi">
@@ -68,4 +67,3 @@
 ---
 
 <p align="center">💡 *Always learning, always improving.*</p>
-
